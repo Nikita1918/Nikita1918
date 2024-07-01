@@ -30,9 +30,9 @@
 <br align>
 
 ### Languages and Tools known: 
-# https://github.com/Nikita1918/Nikita1918/assets/174233474/4327d43b-3ae8-4862-8e7f-6165b8a81b73
-<img align="left" alt="C/C++" width="35px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/4327d43b-3ae8-4862-8e7f-6165b8a81b73" />
-<img align="left" alt="Swift" width="35px" src="https://user-images.githubusercontent.com/52041719/130408820-43d04fc7-d496-4c6f-866c-c123d87b9202.png" />
+# (https://github.com/Nikita1918/Nikita1918/assets/174233474/4b79929e-d094-4a74-a420-e77fa31debdf)
+<img align="left" alt="Python" width="35px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/4327d43b-3ae8-4862-8e7f-6165b8a81b73" />
+<img align="left" alt="MySQL" width="35px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/4b79929e-d094-4a74-a420-e77fa31debdf" />
 <img align="left" alt="Data Structures and Algorithms" width="35px" src="https://user-images.githubusercontent.com/52041719/130408620-cd9e31f5-27d8-4ed7-95e4-98182fe7eb29.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
