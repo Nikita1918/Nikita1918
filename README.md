@@ -29,8 +29,8 @@
 - 💡 Fun fact: I love connecting with data enthusiasts and learning from diverse perspectives :raised_hands:
 - 💬 We can have a healthy discussion about anything, I am happy to have meaningful conversations :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/piyush-khurana-dev/)
-- How to reach me: [Let's get in touch!](www.linkedin.com/in/nikita-rawat-b520b531)
-- 🏋️‍♂️ I try to: Go beyond and push the bounds
+- How to reach me: [Let's get in touch!](www.linkedin.com/in/nikita-rawat-dev/)
+- www.linkedin.com/in/nikita-rawat-b520b531
 
 <br align>
 
