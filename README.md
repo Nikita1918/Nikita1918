@@ -24,7 +24,7 @@
 - 📈 I created a comprehensive dashboard for road accident data analysis using Excel and another for Amazon shopping data using Power BI.
 - 💥 2024 Goals: Master advanced data analysis techniques and gain practical experience in the industry.
 - 💬 Let's discuss data! I'm always up for meaningful conversations about analytics and insights :smile:
-- 📬 How to reach me: [Let's get in touch!](www.linkedin.com/in/nikita-rawat-b520b5317)
+- 📬 How to reach me: Let's get in touch!(www.linkedin.com/in/nikita-rawat-b520b5317)
 - 🏋️‍♂️ I strive to: Push the boundaries of data analysis and uncover actionable insights.
 - 💡 Fun fact: I love connecting with data enthusiasts and learning from diverse perspectives :raised_hands:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/piyush-khurana-dev/)
