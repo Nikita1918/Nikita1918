@@ -34,9 +34,7 @@
 <img align="left" alt="Python" width="35px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/4327d43b-3ae8-4862-8e7f-6165b8a81b73" />
 <img align="left" alt="MySQL" width="70px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/4b79929e-d094-4a74-a420-e77fa31debdf" />
 <img align="left" alt="PowerBI" width="70px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/e24788e8-72d2-44ae-bb51-1e080ccd11b7" />
-<img align="left" alt="Excel" width="60px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/bee45eb3-e245-4d43-9425-a72d4bfa12ab" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="35px" src="https://user-images.githubusercontent.com/52041719/130409538-9a4b190e-b155-4755-9478-240b25bb8ea0.png" />
+<img align="left" alt="Excel" width="50px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/bee45eb3-e245-4d43-9425-a72d4bfa12ab" />
 <img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/52041719/130409785-43de5738-40c8-4a1b-b3c0-b5c74885376a.png" />
 <img align="left" alt="googling" width="65px" src="https://user-images.githubusercontent.com/52041719/130421052-0f7b64c8-3630-45a7-9465-9e036dddf94c.png" />
 
