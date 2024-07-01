@@ -33,7 +33,7 @@
 
 <img align="left" alt="Python" width="35px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/4327d43b-3ae8-4862-8e7f-6165b8a81b73" />
 <img align="left" alt="MySQL" width="35px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/4b79929e-d094-4a74-a420-e77fa31debdf" />
-<img align="left" alt="PowerBI" width="45px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/e24788e8-72d2-44ae-bb51-1e080ccd11b7" />
+<img align="left" alt="PowerBI" width="60px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/e24788e8-72d2-44ae-bb51-1e080ccd11b7" />
 <img align="left" alt="Excel" width="35px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/bee45eb3-e245-4d43-9425-a72d4bfa12ab" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="35px" src="https://user-images.githubusercontent.com/52041719/130409959-a6eff352-f860-4fb5-a1ac-07a8e20f12af.png" />
