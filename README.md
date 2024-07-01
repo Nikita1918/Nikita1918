@@ -20,12 +20,17 @@
 - 🔭 I’m currently deepening my skills in Data Analytics :grin:
 - 📊 I’m currently working heavily on my data visualization skills using Power BI and Excel.
 - 🐍 I'm enhancing my data manipulation and analysis skills with Python and MySQL.
-- 😬 I know how to <img width = 65px src = "https://user-images.githubusercontent.com/52041719/130421052-0f7b64c8-3630-45a7-9465-9e036dddf94c.png"> things.😉
-- 💥 2021 Goals: Learn more about software development and get some experience in the industry
+- 💻 I've worked on live projects including road accident data analysis and Amazon shopping model analysis.
+- 📈 I created a comprehensive dashboard for road accident data analysis using Excel and another for Amazon shopping data using Power BI.
+- 💥 2024 Goals: Master advanced data analysis techniques and gain practical experience in the industry.
+- 💬 Let's discuss data! I'm always up for meaningful conversations about analytics and insights :smile:
+- 📬 How to reach me: Let's get in touch!(www.linkedin.com/in/nikita-rawat-b520b5317)
+- 🏋️‍♂️ I strive to: Push the boundaries of data analysis and uncover actionable insights.
+- 💡 Fun fact: I love connecting with data enthusiasts and learning from diverse perspectives :raised_hands:
 - 💬 We can have a healthy discussion about anything, I am happy to have meaningful conversations :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/piyush-khurana-dev/)
+- How to reach me: [Let's get in touch!](www.linkedin.com/in/nikita-rawat-b520b531)
 - 🏋️‍♂️ I try to: Go beyond and push the bounds
-- 💡 Fun fact: I love connecting with different people :raised_hands:
 
 <br align>
 
