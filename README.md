@@ -16,7 +16,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/c711d45f-1d37-4b60-8dc7-69a390345d34" />
 
-#### I am a Data Analyst 
+ ### I am a Data Analyst 
 - 🔭 I’m currently deepening my skills in Data Analytics :grin:
 - 📊 I’m currently working heavily on my data visualization skills using Power BI and Excel.
 - 🐍 I'm enhancing my data manipulation and analysis skills with Python and MySQL.
