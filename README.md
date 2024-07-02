@@ -7,7 +7,7 @@
 <br>
 <a href="https://www.linkedin.com/in/nikita-rawat-dev/"><img src="https://github.com/Nikita1918/Nikita1918/assets/174233474/bee45eb3-e245-4d43-9425-a72d4bfa12ab" /></a>&nbsp;
 <a href="mailto:nikitaarawat981@gmail.com?subject=Hola%20Piyush"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://PIYUSH-01.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
+<a href="https://github.com/Nikita1918/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
 <a href="https://www.instagram.com/_heathen1.0.1/"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
 
 </p>
@@ -16,7 +16,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/c711d45f-1d37-4b60-8dc7-69a390345d34" />
 
-### I am a Data Analyst  #<img src = https://user-images.githubusercontent.com/52041719/132240809-78fb7c6c-9032-403a-ba04-8e19b5b3b9c4.gif height = "50" width = "50" position = "relative" top = "30">
+#### I am a Data Analyst 
 - 🔭 I’m currently deepening my skills in Data Analytics :grin:
 - 📊 I’m currently working heavily on my data visualization skills using Power BI and Excel.
 - 🐍 I'm enhancing my data manipulation and analysis skills with Python and MySQL.
@@ -29,7 +29,6 @@
 - 💡 Fun fact: I love connecting with data enthusiasts and learning from diverse perspectives :raised_hands:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/piyush-khurana-dev/)
 - How to reach me: [Let's get in touch!](www.linkedin.com/in/nikita-rawat-b520b5317)
-
 
 <br align>
 
