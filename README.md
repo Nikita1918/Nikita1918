@@ -1,6 +1,6 @@
 <p align = "center">
-  <a href="https://github.com/PIYUSH-01"><img src="https://github.com/Nikita1918/Nikita1918/assets/174233474/8c569081-ba0c-4c11-b247-2ec526e1fd70" width = "600" height = "500" /></a>
-  <h1 align="center"><b>Hello there, I'm Nikita Rawat <img src = "https://user-images.githubusercontent.com/52041719/132241647-8404fc9d-018a-4e23-9de6-1b16fd31e76b.gif" width = "50.0"></b></h1>
+  <a href="https://github.com/PIYUSH-01"><img src="https://github.com/Nikita1918/Nikita1918/assets/174233474/8c569081-ba0c-4c11-b247-2ec526e1fd70" width = "600" height = "450" /></a>
+  <h1 align="center"><b>Hello there, I'm Nikita Rawat <img src = "https://github.com/Nikita1918/Nikita1918/assets/174233474/7e68b955-55f2-42af-9bcd-4d643b8c862c" width = "50.0"></b></h1>
 </p>
 
 <p align="center">
