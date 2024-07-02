@@ -1,5 +1,5 @@
 <p align = "center">
-  <a href="https://github.com/PIYUSH-01"><img src="https://github.com/Nikita1918/Nikita1918/assets/174233474/8c569081-ba0c-4c11-b247-2ec526e1fd70" width = "600" height = "400" /></a>
+  <a href="https://github.com/PIYUSH-01"><img src="https://github.com/Nikita1918/Nikita1918/assets/174233474/8c569081-ba0c-4c11-b247-2ec526e1fd70" width = "600" height = "500" /></a>
   <h1 align="center"><b>Hello there, I'm Nikita Rawat <img src = "https://user-images.githubusercontent.com/52041719/132241647-8404fc9d-018a-4e23-9de6-1b16fd31e76b.gif" width = "50.0"></b></h1>
 </p>
 
@@ -88,7 +88,7 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <h4 align="center"> Thank You for visiting my profile :grin: </h4>
-<p align="center"> <a href = "https://drive.google.com/file/d/1OlTmjMK7-0iTnThknuWC_dicohR2HBxa/view?usp=sharing">Download my Resume</p>
+<p align="center"> <a href = "https://drive.google.com/file/d/1kDgwMcA-o5cya5QuPthHaDjMxuCdI1pg/view?usp=drive_link">Download my Resume</p>
 
 <br>
 <br>
