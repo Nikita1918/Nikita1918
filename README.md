@@ -1,6 +1,6 @@
 <p align = "center">
   <a href="https://github.com/PIYUSH-01"><img src="https://github.com/Nikita1918/Nikita1918/assets/174233474/8c569081-ba0c-4c11-b247-2ec526e1fd70" width = "600" height = "450" /></a>
-  <h1 align="center"><b>Hello there, I'm Nikita Rawat <img src = "https://github.com/Nikita1918/Nikita1918/assets/174233474/7e68b955-55f2-42af-9bcd-4d643b8c862c" width = "50.0"></b></h1>
+  <h1 align="center"><b>Hello there, I'm Nikita Rawat <img src = "https://github.com/Nikita1918/Nikita1918/assets/174233474/7e68b955-55f2-42af-9bcd-4d643b8c862c" width = "70.0"></b></h1>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif" />
 
-### I am a Software Development Engineer in making <img src = https://user-images.githubusercontent.com/52041719/132240809-78fb7c6c-9032-403a-ba04-8e19b5b3b9c4.gif height = "50" width = "50" position = "relative" top = "30">
+### I am a Data Analyst in making <img src = https://user-images.githubusercontent.com/52041719/132240809-78fb7c6c-9032-403a-ba04-8e19b5b3b9c4.gif height = "50" width = "50" position = "relative" top = "30">
 - 🔭 I’m currently deepening my skills in Data Analytics :grin:
 - 📊 I’m currently working heavily on my data visualization skills using Power BI and Excel.
 - 🐍 I'm enhancing my data manipulation and analysis skills with Python and MySQL.
@@ -92,4 +92,4 @@
 
 <br>
 <br>
-<p align="center"> <a href = https://dribbble.com/amanj203> GIF's source</p>
+
