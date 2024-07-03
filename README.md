@@ -27,9 +27,6 @@
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/nikita-rawat-b520b5317/)
 - 🏋️‍♂️ I strive to: Push the boundaries of data analysis and uncover actionable insights.
 - 💡 Fun fact: I love connecting with data enthusiasts and learning from diverse perspectives :raised_hands:
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/piyush-khurana-dev/)
-- How to reach me: [Let's get in touch!](www.linkedin.com/in/nikita-rawat-b520b5317)
-
 <br align>
 
 ### Languages and Tools known: 
