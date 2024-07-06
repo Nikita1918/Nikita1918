@@ -1,5 +1,5 @@
 <p align = "center">
-  <a href="https://github.com/Nikita1918"><img src="https://github.com/Nikita1918/Nikita1918/assets/174233474/1cc41465-966c-4609-a450-09a0ab3e74e3" width = "600" height = "450" /></a>
+  <a href="https://github.com/Nikita1918"><img src="https://github.com/Nikita1918/Nikita1918/assets/174233474/1cc41465-966c-4609-a450-09a0ab3e74e3" width = "400" height = "300" /></a>
   <h1 align="center"><b>Hello there, I'm Nikita Rawat <img src = "https://github.com/Nikita1918/Nikita1918/assets/174233474/7e68b955-55f2-42af-9bcd-4d643b8c862c" width = "70.0"></b></h1>
 </p>
 
