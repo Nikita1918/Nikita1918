@@ -36,6 +36,7 @@
 <img align="left" alt="Excel" width="50px" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/bee45eb3-e245-4d43-9425-a72d4bfa12ab" />
 <img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/52041719/130409785-43de5738-40c8-4a1b-b3c0-b5c74885376a.png" />
 <img align="left" alt="googling" width="65px" src="https://user-images.githubusercontent.com/52041719/130421052-0f7b64c8-3630-45a7-9465-9e036dddf94c.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 </br>
